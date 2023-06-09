@@ -1,4 +1,4 @@
-##MMDET Learning
+## MMDET Learning
 
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.951
  Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.993
